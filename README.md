@@ -1,2 +1,2 @@
 # TIL
-&lt;del>til&lt;/del>
+<del>til</del>
