@@ -1,2 +1,2 @@
 # TIL
-<del>til</del>
+<del>Tommorrow I'll Learn</del>Today I Learned
