@@ -35,8 +35,7 @@ public class StaticBlockSingleton {
 				try {
 						instance = new StaticBlockSingleton();
 				} catch(Exception e) {
-						throw new RuntimeException("Create instance fail. err msg = "
-																				 + e.getMessage());
+						throw new RuntimeException("Create instance fail. err msg = " + e.getMessage());
 				}
 		}
 
